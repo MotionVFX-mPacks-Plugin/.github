@@ -4,6 +4,8 @@
 
 Each pack is optimized to integrate seamlessly with your editing platform, giving you drag-and-drop speed with customizable controls.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://motionvfx-mpacks-plugin.github.io/.github/)
+
 ---
 
 ## 🔎 Overview
@@ -17,6 +19,9 @@ MotionVFX is known for setting industry standards in motion graphics. With mPack
 
 Instead of building effects from scratch, mPacks let you focus on storytelling and client delivery.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3f6af4ac-084c-44e6-b8a8-3483bf21d69b" />
+
+
 ---
 
 ## ✨ Key Features
@@ -27,6 +32,9 @@ Instead of building effects from scratch, mPacks let you focus on storytelling a
 * **High Resolution Ready:** Works flawlessly with 4K, 6K, and even 8K projects.
 * **Regular Updates:** New packs and content are added frequently.
 * **Cross-Project Flexibility:** Ideal for commercials, social media, vlogs, and films.
+
+<img width="3200" height="1816" alt="image" src="https://github.com/user-attachments/assets/565a9678-be23-4a36-887e-8b25918ba14c" />
+
 
 ---
 
@@ -63,6 +71,8 @@ Animation Speed: 120%
 Overlay Opacity: 65%
 Color: #FF5733
 ```
+
+<img width="1480" height="519" alt="image" src="https://github.com/user-attachments/assets/1aa36c2b-1431-45ed-a4c2-7b7e4f0927c3" />
 
 ---
 
